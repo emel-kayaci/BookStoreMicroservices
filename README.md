@@ -9,10 +9,10 @@
 
 | Task           | Time required | Assigned to   | Current Status | Finished | 
 |----------------|---------------|---------------|----------------|-----------|
-| Create book database | > 1 hour  | Emel | in progress | <li> [ ] </li>
-| Meeting about book service functions | > 30 minutes  | Emel, Anıl | not started | <li> [ ] </li>
-| Create book service functions   | > 2 hours  | Emel  | not started | <li> [ ] </li>
-| Test book service functions with Postman   | > 30 minutes  | Emel  | not started | <li> [ ] </li>
+| Create book database | > 1 hour  | Emel | done | <li> [x] </li>
+| Meeting about book service functions | > 30 minutes  | Emel, Anıl | needs revision | <li> [ ] </li>
+| Create book service functions   | > 2 hours  | Emel  | done | <li> [x] </li>
+| Test book service functions with Postman   | > 30 minutes  | Emel  | done | <li> [x] </li>
 | Create user database | > 1 hour  | Anıl | done | <li> [x] </li>
 | Meeting about user service functions | > 30 minutes  | Emel, Anıl | done | <li> [x] </li>
 | Create user service functions   | > 2 hours  | Anıl  | done | <li> [x] </li>
