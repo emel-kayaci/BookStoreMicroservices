@@ -13,9 +13,9 @@
 | Meeting about book service functions | > 30 minutes  | Emel, Anıl | not started | <li> [ ] </li>
 | Create book service functions   | > 2 hours  | Emel  | not started | <li> [ ] </li>
 | Test book service functions with Postman   | > 30 minutes  | Emel  | not started | <li> [ ] </li>
-| Create user database | > 1 hour  | Anıl | in progress | <li> [ ] </li>
-| Meeting about user service functions | > 30 minutes  | Emel, Anıl | not started | <li> [ ] </li>
-| Create user service functions   | > 2 hours  | Anıl  | not started | <li> [ ] </li>
-| Test user service functions with Postman   | > 30 minutes  | Anıl  | not started | <li> [ ] </li>
+| Create user database | > 1 hour  | Anıl | done | <li> [x] </li>
+| Meeting about user service functions | > 30 minutes  | Emel, Anıl | done | <li> [x] </li>
+| Create user service functions   | > 2 hours  | Anıl  | done | <li> [x] </li>
+| Test user service functions with Postman   | > 30 minutes  | Anıl  | done | <li> [x] </li>
 | Create progress report   | > 1 hour  | Emel, Anıl  | not started | <li> [ ] </li>
 | Meeting about other services   | > 30 minutes  | Emel, Anıl  | not started | <li> [ ] </li>
